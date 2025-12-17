@@ -57,6 +57,9 @@ The system generates:
     *   `sample_students_selection.png`: Visual examples of selections for specific students.
     *   `detailed_analysis.png`: Comprehensive statistics on distances and selection counts.
 
+### Example Output
+
+![Drugstore Analysis Graph](drugstore_analysis.png)
 ## Metrics
 
 *   **Average Distance**: Typically 3-5 km between selected locations.
