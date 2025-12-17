@@ -60,6 +60,9 @@ The system generates:
 ### Example Output
 
 ![Drugstore Analysis Graph](drugstore_analysis.png)
+![Detailed Analysis Graph](detailed_analysis.png)
+![Sample Students Selection](sample_students_selection.png)
+
 ## Metrics
 
 *   **Average Distance**: Typically 3-5 km between selected locations.
